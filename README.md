@@ -28,8 +28,6 @@ Winnings scale dynamically based on the risk and weight of the matched symbols:
 
 | Symbol | 3-Symbol Match | 2-Symbol Match |
 
---------------------------------------------
-
 | `!` | **10x** Bet |=====| **5x** Bet  |   
 | `@` | **20x** Bet |=====| **10x** Bet |
 | `#` | **30x** Bet |=====| **15x** Bet |
@@ -38,5 +36,3 @@ Winnings scale dynamically based on the risk and weight of the matched symbols:
 | `^` | **60x** Bet |=====| **30x** Bet |
 | `&` | **70x** Bet |=====| **35x** Bet |
 | `*` | **80x** Bet |=====| **40x** Bet |
-
------------------------------------------
