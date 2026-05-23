@@ -6,7 +6,7 @@
 [![Windows](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/zambling)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-A high-stakes, interactive, text-based terminal slot machine game written entirely in C. Place your bets using **Tux**, watch the reels spin with real-time visual suspense, and test your luck against [...]
+A high-stakes, interactive, text-based terminal slot machine game written entirely in C. Place your bets using **Tux**, watch the reels spin with real-time visual suspense, and test your luck!
 
 This project was built to explore foundational low-level programming concepts like terminal output buffer flushing, process micro-sleeping, and dynamic conditional evaluation arrays.
 
