@@ -1,6 +1,6 @@
 # Zambling 🐧🎲
 
-[![Language](https://img.shields.io/badge/language-C-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Language](https://img.shields.io/badge/language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=black)](https://github.com/YOUR_USERNAME/zambling)
 [![macOS](https://img.shields.io/badge/platform-macOS-000000?logo=apple&logoColor=white)](https://github.com/YOUR_USERNAME/zambling)
 [![Windows](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/zambling)
