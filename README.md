@@ -1,9 +1,9 @@
 # Zambling 🐧🎲
 
 [![Language](https://img.shields.io/badge/language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=black)](https://github.com/YOUR_USERNAME/zambling)
-[![macOS](https://img.shields.io/badge/platform-macOS-000000?logo=apple&logoColor=white)](https://github.com/YOUR_USERNAME/zambling)
-[![Windows](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/zambling)
+[![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=black)](https://archlinux.org/)
+[![macOS](https://img.shields.io/badge/platform-macOS-000000?logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Trash)
+[![Windows](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Trash)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A high-stakes, interactive, text-based terminal slot machine game written entirely in C. Place your bets using **Tux**, watch the reels spin with real-time visual suspense, and test your luck!
